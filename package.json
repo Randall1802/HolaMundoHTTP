@@ -1,0 +1,19 @@
+{
+  "name": "holamundo.js",
+  "version": "1.0.0",
+  "description": "primer programa funcional de node.js",
+  "main": "holamundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randall1802/HolaMundoHTTP.git"
+  },
+  "author": "Randy Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randall1802/HolaMundoHTTP/issues"
+  },
+  "homepage": "https://github.com/Randall1802/HolaMundoHTTP#readme"
+}
